@@ -137,7 +137,8 @@ Player.prototype.handleInput = function(keycode) {
 };
 
 
-// Now instantiate your objects.
+// Now instantiate your objects.// create an array of 5 enemies
+// create an array of 5 enemies
 var Lady = new Enemy('Lady');
 var Bunny = new Enemy('Bunny');
 var Red = new Enemy('Red');
@@ -145,7 +146,6 @@ var Crazy = new Enemy('Crazy');
 var Bill = new Enemy('Bill');
 // Place all enemy objects in an array called allEnemies
 var allEnemies = [Lady,Bunny,Red,Crazy,Bill];
-// Place the player object in a variable called player
 var player = new Player();
 
 
