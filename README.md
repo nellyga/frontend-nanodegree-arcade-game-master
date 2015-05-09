@@ -5,7 +5,7 @@ I studied javascript tutorials online
 I practiced all videos for javascript from udacity
 I did a lot exercise in javascript. 
 
-*****************************************************
+************************************************************************************
 How to play this Game:
 
 The Goal is simple:
@@ -21,5 +21,5 @@ for another attempt.
 The "Score" count will show how many times you made it across.
 Score increases by one point for each time you make it across.
 
-*****************************************************
+***********************************************************************************************
 
